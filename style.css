@@ -8,3 +8,7 @@ body {
   background: azure;
   color: blue;
 }
+
+.footer {
+  text-align: right;
+}
