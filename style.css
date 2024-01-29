@@ -1,14 +1,37 @@
-img {
-  width: 200px;
-}
-
-body {
+h1, nav, .main, footer {
   text-align: center;
-  font-family: arial;
-  background: azure;
-  color: blue;
-}
+  }
 
-.footer {
-  text-align: right;
-}
+.projects {
+  margin-right: 10px;
+  margin-left: 10px;
+  }
+
+
+.main {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  width: 50%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 100px;
+  height: 300px;
+  }
+
+.about-main h1 {
+  text-align:left;
+  }
+
+.about-main {
+  border: thick double black;
+  width: 400px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+ }
+
+ul {
+  display: inline;
+  }
